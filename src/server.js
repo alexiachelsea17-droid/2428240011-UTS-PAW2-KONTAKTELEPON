@@ -12,3 +12,6 @@ try {
   console.error('Gagal menjalankan aplikasi:', error.message)
   process.exit(1)
 }
+
+
+ 
